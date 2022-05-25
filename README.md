@@ -1,6 +1,6 @@
 # Dynamic emotion features
 
-Tools for collecting dynamic emotion ratings online.
+Tools for extractin dynamic emotion features from emotion ratings.
 
 Contributions: Heini Saarimäki (Tampere University), Rebecca McBane (Mount Holyoke College), Snigdha Saha (California Institute of Technology)
 
