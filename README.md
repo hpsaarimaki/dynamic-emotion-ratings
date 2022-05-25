@@ -1,4 +1,4 @@
-# Dynamic emotion ratings
+# Dynamic emotion features
 
 Tools for collecting dynamic emotion ratings online.
 
